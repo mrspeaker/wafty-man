@@ -10,7 +10,9 @@ By [Mr Speaker](http://www.mrspeaker.net/) (@mrspeaker), [Anthony Aubertin](http
 
 ## Playing
 
-Test in your browser by opening `App/index.html`. Though it's better to package it up and run it on your iPhone.
+It's JavaScript yo, so you can [Play Wafty Man in your browser](http://mrspeaker.github.io/wafty-man/App/) or if you grab this repo by opening `App/index.html`.
+
+Though clicking sucks. It's better to package it up and run it on your iPhone.
 
 ## Building for iPhone/iPad
 
