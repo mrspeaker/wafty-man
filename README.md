@@ -16,7 +16,7 @@ Though clicking sucks. It's better to package it up and run it on your iPhone.
 
 ## Building for iPhone/iPad
 
-Go and grab [Ejecta]((http://impactjs.com/ejecta) and follow the instructions. Replace the `App` folder with Wafty Man's `App` folder. Run it.
+Go and grab [Ejecta](http://impactjs.com/ejecta) and follow the instructions. Replace the `App` folder with Wafty Man's `App` folder. Run it.
 
 If someone knows a good equivalent for Android/Win Phones etc... let us know!
 
