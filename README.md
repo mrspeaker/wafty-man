@@ -6,11 +6,17 @@ A fairly accurate Flappy Bird clone. Written in JavaScript (rendered on Canvas) 
 
 By Mr Speaker (@mrspeaker), Anthony Aubertin (@Noxdzine), and S. Nizar (morningpotion.com)
 
+![Wafty Man](http://a2.mzstatic.com/us/r30/Purple6/v4/71/b2/b5/71b2b561-537d-fce3-a438-15c27da5a169/screen568x568.jpeg)
+
 ## Playing
 
-Test in your browser by opening App/index.html. Though it's better to package it up with Ejecta (http://impactjs.com/ejecta) and run it on your iPhone.
+Test in your browser by opening App/index.html. Though it's better to package it up and run it on your iPhone.
 
-If someone knows a good equivalent for Android let us know!
+## Building for iPhone/iPad
+
+Go and grab [Ejecta]((http://impactjs.com/ejecta) and follow the instructions. Replace the `App` folder with Wafty Man's `App` folder. Run it.
+
+If someone knows a good equivalent for Android/Win Phones etc... let us know!
 
 ## Warning about the code
 
@@ -45,6 +51,11 @@ then in the render method:
     this.myImage.render(gfx, 10, 10);
 
 Or use the Ω.SpriteSheet if you need a sprite sheet etc. Check the Ω500 docs.
+
+## License
+
+It'll be pretty libre - I just have to talk to the artist to see what he wants to do about the assets. Back soon.
+
 
 
 
