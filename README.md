@@ -2,7 +2,7 @@
 
 A fairly accurate Flappy Bird clone. Written in JavaScript (rendered on Canvas) and packaged for iOS with Ejecta.
 
-[Play it fo' free now](https://itunes.apple.com/us/app/wafty-man/id824792309) on the App Store! Or [play in your browser](http://mrspeaker.github.io/wafty-man/App/), if you don't want to show us just the tiniest bit of support by simply downloading our life's work that we put or our love in to. Or don't have a smelly iPhone.
+[Play it fo' free now](https://itunes.apple.com/us/app/wafty-man/id824792309) on the App Store! Or [play in your browser](http://mrspeaker.github.io/wafty-man/App/), if you don't want to show us just the tiniest bit of support by simply downloading our life's work that we put all our heart and soul in to. Or don't have a smelly iPhone.
 
 ![Wafty Man](http://a2.mzstatic.com/us/r30/Purple6/v4/71/b2/b5/71b2b561-537d-fce3-a438-15c27da5a169/screen568x568.jpeg)
 
