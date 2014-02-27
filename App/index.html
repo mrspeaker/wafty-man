@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="user-scalable=0, initial-scale=1.0" />
+
+    <title>Wafty Man by @mrspeaker, @Noxdzine, and S.Nizar</title>
+
+    <link rel="stylesheet" href="res/main.css">
+</head>
+<body>
+    <section>
+        <canvas id="canvas"></canvas>
+        <div class="tip">
+            <a href="http://www.mrspeaker.net/tips/" title="Tip some coinz">much tips. wow.</a>
+        </div>
+    </section>
+
+    <!-- Ω500 lib -->
+    <script src="lib/Ω500.js"></script>
+    <script src="lib/Button.js"></script>
+
+    <!-- Game -->
+    <script src="src/game.js"></script>
+    <script src="src/entities/WaftyMan.js"></script>
+    <script src="src/entities/Pipe.js"></script>
+    <script src="src/screens/MainScreen.js"></script>
+    <script src="src/screens/TitleScreen.js"></script>
+    <script>
+        /*
+            This is the test index.html file. Any changes here should
+            be reflected in the index.js file that is used for packaging
+            with Ejecta.js
+        */
+
+
+        /*
+            This establishes the canvas size and "polyfills" for
+            missing Ejecta functions.
+
+            These globals should be packaged up into an window.env object
+            or something, but we were runnin' like the wind to get this
+            game out.
+        */
+        var w = 320,
+            h = 568,
+            c = document.getElementById("canvas");
+        c.setAttribute("width", w);
+        c.setAttribute("height", h);
+        window.isNative = false;
+        window.iAds = { show: function() {}, hide: function () {}};
+        window.MOVE_UP_SCREEN_PIXELS = 0;
+        window.canvas_ratio_width = 1;
+        window.canvas_ratio_height = 1;
+        window.gameCenter = {
+            authed: false,
+            softAuthenticate: function () {},
+            authenticate: function () {}
+        }
+        var game = new OmegaGame(w, h);
+    </script>
+
+</body>
+</html>

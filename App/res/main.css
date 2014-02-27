@@ -1,0 +1,30 @@
+body {
+    background-color: #efefef;
+    margin: 0;
+    padding: 0;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 9pt;
+
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+a {
+    color: #999;
+    text-decoration: none;
+}
+
+section {
+    text-align:center;
+}
+
+canvas {
+    margin-top: 35px;
+    border: 4px solid #333;
+    padding: 25px 3px 35px 3px;
+    border-radius: 15px;
+    background-color: #111;
+}
