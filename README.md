@@ -6,7 +6,7 @@ A fairly accurate Flappy Bird clone. Written in JavaScript (rendered on Canvas) 
 
 ![Wafty Man](http://a2.mzstatic.com/us/r30/Purple6/v4/71/b2/b5/71b2b561-537d-fce3-a438-15c27da5a169/screen568x568.jpeg)
 
-By [Mr Speaker](http://www.mrspeaker.net/) (@mrspeaker), [Anthony Aubertin](http://dribbble.com/Noxdzine) (@Noxdzine), and [S. Nizar](http://morningpotion.com)
+By [Mr Speaker](http://www.mrspeaker.net/) (@mrspeaker), [Anthony Aubertin](http://dribbble.com/Noxdzine) (@Noxdzine), and [S. Nizar](http://morningpotion.com) (@natewave)
 
 ## Playing
 
